@@ -1,4 +1,4 @@
-# Parallel-Abalone-Game
+# Parallel-Search-in-Board-Game-Abalone
 
 [Abalone](https://en.wikipedia.org/wiki/Abalone_(board_game))
 
