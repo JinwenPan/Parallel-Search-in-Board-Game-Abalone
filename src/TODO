@@ -1,9 +1,0 @@
-Referee:
-* Protocol extensions:
-  - ...
-
-General:
-* Network: Multiple messages on one TCP connection
-* Network: Real asynch. breaks (really needed?)
-* Gameconsole: Send messages
-
