@@ -58,6 +58,6 @@ local> ./start -p 5000
 
 ## Search Strategies
 
-Multiple search strategies for deciding moves are supported and parallelized with OpenMP. The strategy can be specified for `player` by using the command line option `-s <stragegy>`. For a list of compiled-in strategies, run a player with `-h`.
+Multiple search strategies for deciding moves are supported and parallelized with OpenMP and MPI. The strategy can be specified for `player` by using the command line option `-s <stragegy>`. For a list of compiled-in strategies, run a player with `-h`.
 
-The development process and experimental analysis are provided in the form of a lab report `/report/Abalone_Report.pdf` from a course at the Technical University of Munich.
+The development process and experimental analysis are provided in the form of a lab report `/report/Abalone_Report.pdf` from a course at the Technical University of Munich. The framework for this software was provided by the instructor, and our main focus was on implementing search algorithms for decision-making.
